@@ -1,0 +1,51 @@
+- category: 学术荣誉
+  honors:
+    - title: 优秀学生奖学金一等奖
+      description: 学年综合成绩排名专业前5%
+      date: 2025-12-15
+      level: 校级
+    - title: 三好学生
+      description: 德智体美劳全面发展，表现优异
+      date: 2025-10-01
+      level: 校级
+    - title: 优秀毕业生
+      description: 毕业综合评价优秀
+      date: 2026-06-30
+      level: 校级
+
+- category: 竞赛奖项
+  honors:
+    - title: 全国大学生数学建模竞赛一等奖
+      description: 团队合作完成数学建模项目，获得全国一等奖
+      date: 2025-09-20
+      level: 国家级
+    - title: 省级程序设计大赛二等奖
+      description: 个人赛表现突出，获得省级二等奖
+      date: 2025-05-10
+      level: 省级
+    - title: 校级算法竞赛冠军
+      description: 在学校算法竞赛中获得第一名
+      date: 2024-12-05
+      level: 校级
+
+- category: 实践经历
+  honors:
+    - title: 优秀实习生
+      description: 在实习期间表现突出，获得公司表彰
+      date: 2025-08-20
+      level: 企业级
+    - title: 社会实践先进个人
+      description: 参与暑期社会实践活动，表现优异
+      date: 2025-07-15
+      level: 校级
+
+- category: 其他荣誉
+  honors:
+    - title: 优秀志愿者
+      description: 累计志愿服务时长超过100小时
+      date: 2025-11-05
+      level: 校级
+    - title: 校园文化活动积极分子
+      description: 积极参与校园文化活动，贡献突出
+      date: 2024-12-20
+      level: 校级

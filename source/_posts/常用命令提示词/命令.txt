@@ -1,0 +1,5 @@
+
+hexo cl; hexo g; hexo s
+
+
+hexo cl; hexo g; $env:GIT_SSH_COMMAND='ssh -i C:/Users/lixiang/.ssh/id_ed25519_xiaoluovip'; hexo d

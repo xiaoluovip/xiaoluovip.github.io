@@ -1,0 +1,52 @@
+
+---
+title: 基于Python的PyTorch框架和PyQt5的基于融合模型的 GUI 风格生成系统
+date: 2026-03-05 22:33:26
+tags: 资源下载分享博客系统
+categories: 成果展示
+description: 基于Hexo静态站点生成器构建的资源下载分享博客系统,集成Snippet主题、本地搜索、评论系统等功能,专注于视频剪辑软件、办公软件等实用资源的分享
+---
+
+
+📌 项目简介
+
+🎬 演示地址
+
+📸 成果展示
+🎬 视频演示
+🖼️ 图片展示
+
+✨ 功能展示
+
+<div align="center">
+  <video width="100%" height="auto" controls style="max-width:1000px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    <source src="/videos/takeout.mp4" type="video/mp4">
+    您的浏览器不支持视频播放,请点击上方链接查看在线演示
+  </video>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+source\_posts\成果展示\基于springboot+vue毕设项目在线订餐与外卖系统.md，
+完成修改整理改篇文章的内容排版，根据已给的模板，来添加内容，适当加一些动画和特效，不要有ai味，
+可以参考：A:\卓面\小洛官网\xiaoluo\source\_posts\成果展示\基于Hugo主题hugo-theme-reimu的博客.md，
+保证成果展示:图片展示：也要显示图片是1排5个，共两排
+
+图片路径：themes\anzhiyu\source\img\works\pytorch文件下
+该文章的论文档在：source\_posts\成果展示\readm.md
+技术文档：source\_posts\成果展示\jishu.txt
+
+视频路径：themes\anzhiyu\source\videos\takeout.mp4
+
+source\_posts\业务分类\环境软件配置安装服务\环境软件配置安装服务.md，
+完成修改整理改篇文章的内容排版，根据已给的模板，来添加内容，适当加一些动画和特效，不要有ai味，
+网站链接参考：https://xiaoluovip.github.io/2026/02/13/%E7%8E%AF%E5%A2%83%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1/%E7%8E%AF%E5%A2%83%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1/
